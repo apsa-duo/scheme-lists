@@ -1,0 +1,19 @@
+# Racket compiled files
+compiled/
+**/compiled/
+
+# Backup files
+*.rkt~
+*~
+\#*\#
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
