@@ -123,7 +123,7 @@ racket examples/example4LambdaFunctions.rkt
 |:-----|:-----|
 | **Andrea Pascual Aguilera** | Developer & Co-Author |
 | **Sergio Alonso Zarcero** | Developer & Co-Author |
-
+| **Álvaro Eugenio Fernández** | Developer & Co-Author |
 ---
 
 ## 🗺️ Future Roadmap
